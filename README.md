@@ -1,7 +1,7 @@
 Gerchberg-Saxton Algorithm Deep Unrolling Network for Phase Retrieval
 A implementation of unrolling the iterative GS algorithm into an unrolled deep learning network. The GS iterative method interacts with deep learning process by intervals. The Fresnel Diffraction back-and-forth propagations in the network are implemented with LightPipes optical simulation on CPU. The deep learning layers in are Pytorch on GPU. Thus, during training or inference, the data is commuted between CPU and GPU constantly.
 
-
+A presentation of this research work and all experiment results can be found in my video channel: https://b23.tv/teFqjD9 
 
 
 Results:
